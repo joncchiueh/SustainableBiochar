@@ -14,8 +14,6 @@ Agricultural activities emit large quantities of gaseous ammonia (NH₃), a prec
 | **Sensors & logging** | Electrochemical NH₃ sensor (0.01 ppm res.), 1 min interval |
 | **Breakthrough criterion** | Effluent ≈ influent or plateau >15 min |
 
-Full protocols (“Methods” section) are in [`/docs/BiocharTesting_ArticleOutline.pdf`](docs/BiocharTesting_ArticleOutline.pdf). :contentReference[oaicite:1]{index=1}
-
 ## Key Findings
 * Acid activation boosted NH₃ capacity roughly **3- to 5-fold** compared with non-activated chars.
 * Best performer: **WC-500-30-A** ≈ 0.31 mg NH₃ g⁻¹ at breakthrough (duplicate-trial mean).
